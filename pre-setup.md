@@ -1,6 +1,6 @@
 ## 运行项目必须安装项
 1. 安装git。 检查是否系统已经安装了git，使用命令: `git - -version`，如果已安装，会显示git版本号。如果没有安装，see [git下载安装指南](https://git-scm.com/downloads)。
-2. 安装docker CommunityEdition，从根据你的操作系统以下链接查看下载安装指南：
+2. 安装docker CommunityEdition，根据你的操作系统从以下链接查看下载安装指南：
    * [Mac (macOS)](https://docs.docker.com/docker-for-mac/install/)
    * [Microsoft Windows 10](https://docs.docker.com/docker-for-windows/install/)
    * Linux：
