@@ -18,6 +18,6 @@ sudo chmod +x /usr/local/bin/docker-compose
 ```
 如果安全仍有有问题，请检查dependency packages，see [docker-compose 安装指南](https://docs.docker.com/compose/install/)中linux的tab。
 
-## 可选安装项目
+## 可选安装项
 
 项目主要部分由java开发，如果想修改源代码并重新编译运行，请安装并安装[JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html), 并准备一个安装JAVA IDE，如: [IDEA](https://www.jetbrains.com/idea/)。
