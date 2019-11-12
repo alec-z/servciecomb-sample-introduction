@@ -1,5 +1,5 @@
 ## 运行项目必须安装项
-1. 安装git。 检查是否系统已经安装了git，使用命令: `git - -version`，如果已安装，会显示git版本号。如果没有安装，see [git下载安装指南](https://git-scm.com/downloads)。
+1. 安装git。 检查是否系统已经安装了git，使用命令: `git - -version`，如果已安装，会显示git版本号。如果没有安装，see [git下载安装指南](https://git-scm.com/downloads) 。
 2. 安装docker CommunityEdition，根据你的操作系统从以下链接查看下载安装指南：
    * [Mac (macOS)](https://docs.docker.com/docker-for-mac/install/)
    * [Microsoft Windows 10](https://docs.docker.com/docker-for-windows/install/)
@@ -16,8 +16,8 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-
 
 sudo chmod +x /usr/local/bin/docker-compose
 ```
-如果安全仍有有问题，请检查dependency packages，see [docker-compose 安装指南](https://docs.docker.com/compose/install/)中linux的tab。
+如果安全仍有有问题，请检查dependency packages，see [docker-compose 安装指南](https://docs.docker.com/compose/install/) 中linux的tab。
 
 ## 可选安装项
 
-项目主要部分由java开发，如果想修改源代码并重新编译运行，请安装并安装[JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html), 并准备一个安装JAVA IDE，如: [IDEA](https://www.jetbrains.com/idea/)。
+项目主要部分由java开发，如果想修改源代码并重新编译运行，请安装并安装 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html) , 并准备一个安装JAVA IDE，如: [IDEA](https://www.jetbrains.com/idea/) 。
